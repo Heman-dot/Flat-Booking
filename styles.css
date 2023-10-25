@@ -1,0 +1,138 @@
+@import url("https://fonts.googleapis.com/css2?family=Bree+Serif&family=Caveat:wght@400;700&family=Lobster&family=Monoton&family=Open+Sans:ital,wght@0,400;0,700;1,400;1,700&family=Playfair+Display+SC:ital,wght@0,400;0,700;1,700&family=Playfair+Display:ital,wght@0,400;0,700;1,700&family=Bree Serif:ital,wght@0,400;0,700;1,400;1,700&family=Source+Sans+Pro:ital,wght@0,400;0,700;1,700&family=Work+Sans:ital,wght@0,400;0,700;1,700&display=swap");
+
+.main-page {
+    background-image: url("https://assets.ccbp.in/frontend/static-website/flats-list-bg.png");
+    height: 100vh;
+    background-size: cover;
+    font-family: Bree Serif;
+}
+
+.book-flat {
+    background-color: #ffffff;
+    background-size: cover;
+    height: 20vh;
+    border-top-left-radius: 20px;
+    border-top-right-radius: 20px;
+    text-align: center;
+    padding: 50px;
+}
+
+.back {
+    width: 100px;
+}
+
+.hrl {
+    background-color: #ffffff;
+    border-width: 3px;
+}
+
+.flat-back {
+    margin-left: 20px;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    font-family: Roboto;
+}
+
+.flat-confirm {
+    margin-left: 90px;
+    margin-top: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    font-family: Roboto;
+}
+
+.button {
+    margin: 30px;
+    border-radius: 5px;
+    padding: 10px;
+    color: #ffffff;
+    background-color: #f19116;
+    border-width: 0px;
+    font-family: Roboto;
+}
+
+.flats {
+    background-color: #222222;
+    height: 100vh;
+    background-size: cover;
+    font-family: Bree Serif;
+    padding-top: 30px;
+    padding-left: 20px;
+    padding-right: 20px;
+
+}
+
+.flat {
+    background-color: #ffffff;
+    padding: 10px;
+    font-weight: bold;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    margin-top: 15px;
+}
+
+.flat-pic {
+    width: 30%;
+    border-top-left-radius: 10px;
+    border-bottom-left-radius: 10px;
+    margin-top: 15px;
+}
+
+.loc {
+    width: 30px;
+    height: 30px;
+    margin-right: 20px;
+}
+
+.flatdetails-pic {
+    height: 100%;
+    width: 100%;
+}
+
+.flatloc {
+    margin-top: 30px;
+}
+
+.bhkdetails {
+    height: 30vh;
+}
+
+.bhkinfo {
+    background-color: #222222;
+    height: 80vh;
+    padding: 30px;
+    font-family: Bree Serif;
+}
+.confirm{
+    text-align: center;
+    margin-top: 150px;
+}
+.confirm_img
+{
+    margin-top: 100px;
+    height: 30vh;
+}
+.confirm_home
+{
+    text-align: center;
+    margin-top: 100px;
+}
+.back_home
+{
+    padding: 20px;
+    width: 250px;
+    font-size: 30px;
+}
+#sectionconfirm
+{
+    background-image: url("orange-victorian-house.webp");
+    background-size: cover;
+    height: 100vh;
+}
